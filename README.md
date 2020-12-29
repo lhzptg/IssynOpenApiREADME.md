@@ -11,7 +11,7 @@
 >正在开放更多API，或联系站长反馈API
 
 ## 域名
-http://open.api.itobj.net  仅支持http，后续支持https
+https://api.itobj.net 
 
 ## 接口列表 
 - 获取15天天气预报
