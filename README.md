@@ -37,7 +37,7 @@ https://api.itobj.net
 >返回 json:
 > 
 > 
-## 请赞助我，如果帮助到你请支持我
+## 如果帮助到你请赞助我
 - 支付宝
   ![avatar](https://s.itobj.net/img/pay/ali_pay.png)
   
