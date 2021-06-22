@@ -30,14 +30,14 @@ https://api.itobj.net
 - 根据ipv4获取地理地址
 
 >
->路由: /op-api/v1/ip/location
+>路由: /op-api/v1/ip/location?ip={ip4或ip6}   (8.8.8.8)
 >
 >方法: get
 >
 >返回 json:
 > 
 > 
-## 请赞助我，使用该平台走的更远
+## 请赞助我，如果帮助到你请支持我
 - 支付宝
   ![avatar](https://s.itobj.net/img/pay/ali_pay.png)
   
