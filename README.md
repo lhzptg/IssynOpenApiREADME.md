@@ -7,6 +7,8 @@
 >本项目长期且免费提供服务
 >
 >站长qq : 3219415100
+> 
+> Telegram : https://t.me/ittitan
 >
 >正在开放更多API，或联系站长反馈API
 
