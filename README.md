@@ -42,6 +42,6 @@ https://api.itobj.net
 > 
 > 
 ## 如果帮助到你请赞助我
-- paypal
+- paypal：
   tcpisip@gmail.com
   
