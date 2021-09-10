@@ -6,7 +6,9 @@
 >
 >本项目长期且免费提供服务
 >
->站长qq : 3219415100
+>站长qq : 88888888
+> 
+> 邮箱：itobj@itobj.anonaddy.com
 > 
 > Telegram : https://t.me/tcpisopen
 >
@@ -40,8 +42,6 @@ https://api.itobj.net
 > 
 > 
 ## 如果帮助到你请赞助我
-- 支付宝
-  ![avatar](https://s.itobj.net/img/pay/ali_pay.png)
+- paypal
+  tcpisip@gmail.com
   
-- 微信支付
-  ![avatar](https://s.itobj.net/img/pay/wecaht_pay.png)
