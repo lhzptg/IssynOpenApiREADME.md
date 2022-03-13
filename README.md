@@ -39,7 +39,5 @@ https://api.itobj.net
 >返回 json:
 > 
 > 
-## 如果帮助到你请赞助我
-- paypal：
-  tcpisip@gmail.com
+
   
