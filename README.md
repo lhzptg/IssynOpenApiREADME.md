@@ -14,7 +14,9 @@
 
 ## 域名
 
-https://api.itobj.net
+https://api.ittcp.com   新域名
+
+https://api.itobj.net   （该域名与	2023-08-13日停止服务）
 
 ## 接口列表
 
