@@ -1,4 +1,4 @@
-# Ittcp.com 开放平台
+# MCQUIC.COM 开放平台
 
 ## 注意事项
 
