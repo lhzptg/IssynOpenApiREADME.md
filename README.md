@@ -40,6 +40,16 @@ https://api.itobj.net   （该域名与	2023-08-13日停止服务）
 >
 >返回 json:
 > 
-> 
+>
 
+- 获取天气城市编码 每天自动更新 天气网编码
+
+>
+>路由: /op-api/v1/weather/city/list 
+>
+>方法: get
+>
+>返回 json:
+>
+> 
   
