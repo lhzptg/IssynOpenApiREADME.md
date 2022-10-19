@@ -49,6 +49,9 @@ https://api.itobj.net   （该域名与	2023-08-13日停止服务）
 >
 >方法: get
 >
+> 参数：
+>  name | 选项 | string  | 城市名称，like查询
+> 
 >返回 json:
 >
 > 
