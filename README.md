@@ -56,7 +56,7 @@ https://api.itobj.net   （该域名与	2023-08-13日停止服务）
 >
 >
 
-- 随机获取代理ip池， 缓存2小时
+- 随机获取代理ip池
 
 >
 >路由: /op-api/v1/ip/pool/random
