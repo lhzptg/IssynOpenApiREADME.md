@@ -50,7 +50,7 @@ https://api.itobj.net   （该域名与	2023-08-13日停止服务）
 >方法: get
 >
 > 参数：
->  name | 选项 | string  | 城市名称，like查询
+>  name | 选填 | string  | 城市名称，like查询
 > 
 >返回 json:
 >
@@ -65,5 +65,18 @@ https://api.itobj.net   （该域名与	2023-08-13日停止服务）
 >
 >返回 json:
 >
-> 
-  
+>
+
+- 获取笑话
+
+>
+>路由: /op-api/v1/joke
+>
+>方法: get
+>
+> 参数：
+>  type | 选填 | string  |  joke= 笑话， loveStory=土味情话，sentence=词霸每日一句，motto= 格言
+>
+>返回 json:
+>
+>
