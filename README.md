@@ -80,3 +80,18 @@ https://api.itobj.net   （该域名与	2023-08-13日停止服务）
 >返回 json:
 >
 >
+
+
+- 生成短链接
+
+>
+>路由: /op-api/v1/url/short
+>
+>方法: post
+>
+> 参数：
+>  url | 必填 | string  |  跳转的目标地址 与http 开头
+>
+>返回 json:
+>
+>
