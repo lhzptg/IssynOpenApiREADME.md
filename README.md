@@ -1,15 +1,11 @@
-# MCQUIC.COM 开放平台
+# Issyn.com 开放平台
 
 ## 注意事项
 
 > 请勿恶意访问，关小黑屋无法恢复
 >
 > 本项目长期且免费提供服务
-> 
-> 邮箱：itobj@itobj.anonaddy.com
-> 
-> Telegram : https://t.me/tcpisopen
->
+
 > 正在开放更多API，或联系站长反馈API
 
 ## 域名
